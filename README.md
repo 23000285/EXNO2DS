@@ -1,7 +1,7 @@
 # EXPERIMENT 2: EXPLORATORY DATA ANALYSIS
 
 ## AIM:
-      To perform Exploratory Data Analysis on the given data set.
+  To perform Exploratory Data Analysis on the given data set.
       
 ## EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
@@ -300,4 +300,4 @@ sns.pairplot(df)
 ![alt text](<SCREENSHOT IMAGES/image34.png>)
 
 ## RESULT:
-Hence performing Exploratory Data Analysis on the given data set is successful
+Hence performing Exploratory Data Analysis on the given data set is successfully executed.
